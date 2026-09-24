@@ -1,0 +1,51 @@
+Employee_ID,Age,Experience,Education,Department,Job_Level,City,Projects,Performance,Training_Hours,Remote_Work,Previous_Companies,Salary
+E001,22,1,Bachelor,IT,Junior,Pune,2,72,20,Yes,0,320000
+E002,25,3,Master,Data Science,Junior,Mumbai,4,81,35,Yes,1,450000
+E003,28,5,Master,IT,Mid,Pune,6,88,40,No,2,620000
+E004,30,7,Bachelor,Software,Mid,Bangalore,8,91,50,Yes,2,750000
+E005,35,10,Master,Data Science,Senior,Bangalore,12,94,60,No,3,1050000
+E006,24,2,Bachelor,Testing,Junior,Nashik,3,69,15,Yes,0,350000
+E007,27,,Master,IT,Mid,Pune,5,85,30,Yes,1,580000
+E008,32,8,Bachelor,Software,Senior,Mumbai,10,90,45,No,3,900000
+E009,29,6,Master,Data Science,Mid,Pune,,87,42,Yes,2,680000
+E010,23,1,Bachelor,Support,Junior,Nashik,2,65,10,No,0,300000
+E011,26,4,Bachelor,IT,Junior,Mumbai,5,78,,Yes,1,470000
+E012,31,7,Master,Software,Senior,Bangalore,9,92,55,Yes,2,850000
+E013,36,12,Master,Data Science,Senior,Pune,15,96,70,No,4,1200000
+E014,28,5,Bachelor,Testing,Mid,Nashik,6,82,25,Yes,1,560000
+E015,25,3,Master,IT,Junior,Pune,4,75,30,No,1,430000
+E016,33,9,Bachelor,Software,Senior,Mumbai,11,89,48,Yes,3,920000
+E017,27,4,Bachelor,Support,Junior,Nashik,3,71,18,No,0,390000
+E018,30,6,Master,Data Science,Mid,Bangalore,8,90,45,Yes,2,720000
+E019,24,2,Bachelor,IT,Junior,Pune,3,68,20,Yes,0,340000
+E020,38,14,Master,Software,Senior,Bangalore,18,97,80,No,5,1350000
+E021,29,5,Bachelor,IT,Mid,Mumbai,7,84,35,Yes,2,610000
+E022,26,3,Master,Testing,Junior,Pune,4,77,25,No,1,440000
+E023,34,,Master,Data Science,Senior,Bangalore,13,93,65,Yes,3,1100000
+E024,31,8,Bachelor,Software,Senior,Pune,10,91,50,No,3,870000
+E025,23,1,Bachelor,Support,Junior,Nashik,1,62,12,Yes,0,290000
+E026,28,5,Master,IT,Mid,Mumbai,6,86,40,Yes,2,640000
+E027,37,11,Master,Data Science,Senior,Pune,14,95,75,No,4,1180000
+E028,25,2,Bachelor,Testing,Junior,Nashik,3,,20,Yes,0,330000
+E029,32,7,Master,Software,Senior,Bangalore,9,88,55,No,2,830000
+E030,27,4,Bachelor,IT,Mid,Pune,5,80,30,Yes,,520000
+E031,35,10,Master,Data Science,Senior,Mumbai,12,94,65,No,4,1080000
+E032,24,2,Bachelor,Support,Junior,Nashik,2,66,15,Yes,0,310000
+E033,29,6,Master,IT,Mid,Pune,7,87,38,No,2,670000
+E034,33,9,Bachelor,Software,Senior,Bangalore,11,92,50,Yes,3,910000
+E035,26,3,Bachelor,Testing,Junior,Mumbai,4,74,22,No,1,420000
+E036,39,15,Master,Data Science,Senior,Pune,17,98,85,Yes,5,1450000
+E037,30,6,Bachelor,IT,Mid,Mumbai,8,83,35,Yes,2,630000
+E038,28,4,Master,Software,Mid,Pune,6,86,40,No,1,610000
+E039,34,9,Master,Data Science,Senior,Bangalore,13,95,70,Yes,3,1120000
+E040,25,2,Bachelor,Support,Junior,Nashik,2,64,10,No,0,305000
+E041,31,7,Bachelor,IT,Mid,Pune,8,89,45,Yes,2,700000
+E042,27,3,Master,Testing,Junior,Mumbai,4,79,28,No,1,460000
+E043,36,11,Master,Software,Senior,Bangalore,15,93,60,Yes,4,1150000
+E044,23,1,Bachelor,Support,Junior,Nashik,1,60,8,No,0,280000
+E045,29,5,Master,IT,Mid,Pune,7,85,36,Yes,2,650000
+E046,32,8,Bachelor,Software,Senior,Mumbai,10,90,52,No,3,880000
+E047,26,,Bachelor,Testing,Junior,Nashik,3,73,20,Yes,0,370000
+E048,38,13,Master,Data Science,Senior,Bangalore,16,96,78,No,5,1300000
+E049,30,6,Bachelor,IT,Mid,Pune,7,88,42,Yes,2,660000
+E050,33,9,Master,Software,Senior,Mumbai,12,91,58,No,3,950000
