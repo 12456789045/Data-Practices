@@ -1,0 +1,12 @@
+Python is a high-level programming language used for web development,
+automation, data science, machine learning and artificial intelligence.
+
+FastAPI is a modern Python framework used for building APIs.
+It provides automatic API documentation and supports asynchronous programming.
+
+Streamlit is a Python framework that allows developers to create
+interactive data science and machine learning applications.
+
+RAG stands for Retrieval-Augmented Generation.
+RAG retrieves relevant information from an external knowledge source
+and provides that information to a language model as context.
